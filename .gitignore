@@ -1,2 +1,5 @@
 documentLoaders/.venv
 documentLoaders/.env
+
+textSplitters/.venv
+textSplitters/.env
