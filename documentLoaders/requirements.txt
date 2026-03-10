@@ -4,3 +4,4 @@ langchain-core
 langchain_openai
 dotenv
 pypdf
+beautifulsoup4
