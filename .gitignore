@@ -1,5 +1,11 @@
+.gitignore
+
 documentLoaders/.venv
 documentLoaders/.env
 
 textSplitters/.venv
 textSplitters/.env
+
+vectorStores/.venv
+vectorStores/.env
+

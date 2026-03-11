@@ -1,0 +1,104 @@
+{
+    "product_list":[
+        {
+            "id": "P001",
+            "name": "Apple iPhone 15",
+            "category": "Smartphone",
+            "brand": "Apple",
+            "price": 799,
+            "description": "The Apple iPhone 15 features a 6.1-inch Super Retina XDR display, powered by the A16 Bionic chip. It includes a 48MP main camera, improved battery life, and USB-C charging.",
+            "features": ["A16 Bionic chip", "48MP camera", "Dynamic Island", "USB-C charging"],
+            "rating": 4.7
+        },
+        {
+            "id": "P002",
+            "name": "Samsung Galaxy S24",
+            "category": "Smartphone",
+            "brand": "Samsung",
+            "price": 899,
+            "description": "Samsung Galaxy S24 comes with a 6.2-inch AMOLED display, Snapdragon 8 Gen 3 processor, and a triple camera system with AI-powered photography.",
+            "features": ["Snapdragon 8 Gen 3", "AMOLED display", "AI camera", "120Hz refresh rate"],
+            "rating": 4.6
+        },
+        {
+            "id": "P003",
+            "name": "Sony WH-1000XM5",
+            "category": "Headphones",
+            "brand": "Sony",
+            "price": 399,
+            "description": "Sony WH-1000XM5 offers industry-leading noise cancellation with up to 30 hours battery life and exceptional sound quality.",
+            "features": ["Active noise cancellation", "30-hour battery", "Bluetooth 5.2", "Touch controls"],
+            "rating": 4.8
+        },
+        {
+            "id": "P004",
+            "name": "Apple MacBook Air M3",
+            "category": "Laptop",
+            "brand": "Apple",
+            "price": 1299,
+            "description": "The MacBook Air with M3 chip delivers powerful performance with a fanless design, 18-hour battery life, and a stunning Retina display.",
+            "features": ["M3 chip", "18-hour battery", "Retina display", "Lightweight design"],
+            "rating": 4.9
+        },
+        {
+            "id": "P005",
+            "name": "Dell XPS 13",
+            "category": "Laptop",
+            "brand": "Dell",
+            "price": 1199,
+            "description": "Dell XPS 13 is a premium ultrabook with a 13.4-inch InfinityEdge display, Intel Core i7 processor, and sleek aluminum design.",
+            "features": ["Intel Core i7", "InfinityEdge display", "Lightweight", "Fast SSD storage"],
+            "rating": 4.6
+        },
+        {
+            "id": "P006",
+            "name": "Amazon Echo Dot 5th Gen",
+            "category": "Smart Speaker",
+            "brand": "Amazon",
+            "price": 49,
+            "description": "The Amazon Echo Dot 5th Gen is a compact smart speaker with Alexa voice assistant, improved sound quality, and smart home control.",
+            "features": ["Alexa voice assistant", "Smart home control", "Compact design"],
+            "rating": 4.5
+        },
+        {
+            "id": "P007",
+            "name": "Apple Watch Series 9",
+            "category": "Smartwatch",
+            "brand": "Apple",
+            "price": 399,
+            "description": "Apple Watch Series 9 includes advanced health tracking, ECG monitoring, and a bright always-on Retina display.",
+            "features": ["Health tracking", "ECG monitoring", "Always-on display", "Fitness tracking"],
+            "rating": 4.7
+        },
+        {
+            "id": "P008",
+            "name": "iPad Air M2",
+            "category": "Tablet",
+            "brand": "Apple",
+            "price": 599,
+            "description": "The iPad Air M2 provides powerful performance with a Liquid Retina display, Apple Pencil support, and lightweight design.",
+            "features": ["M2 chip", "Liquid Retina display", "Apple Pencil support"],
+            "rating": 4.8
+        },
+        {
+            "id": "P009",
+            "name": "Logitech MX Master 3S",
+            "category": "Mouse",
+            "brand": "Logitech",
+            "price": 99,
+            "description": "Logitech MX Master 3S is a premium wireless mouse designed for productivity with ultra-fast scrolling and customizable buttons.",
+            "features": ["MagSpeed scrolling", "Ergonomic design", "Multi-device support"],
+            "rating": 4.7
+        },
+        {
+            "id": "P010",
+            "name": "Samsung 55-inch QLED 4K TV",
+            "category": "Television",
+            "brand": "Samsung",
+            "price": 999,
+            "description": "Samsung 55-inch QLED TV offers stunning 4K resolution, Quantum Dot technology, and smart TV features with voice assistants.",
+            "features": ["4K resolution", "Quantum Dot display", "Smart TV apps"],
+            "rating": 4.6
+        }
+    ]
+}

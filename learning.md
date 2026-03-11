@@ -56,3 +56,25 @@ This is done so, because it helps to get better context or enhanches the quality
 4. semantic meaning based text splitters. 
 
 Question 2. What is the difference between split_text vs split_documnets.
+
+
+
+
+# Vector Store
+
+A vector store is a centralized repository which keeps the track of vector embeddings.
+There are 4 main features which belongs to a vector store.
+1. `Storage of vectors`-> This feature ensures the storage of vectors along with their meta data. the storage can be of either `in-memory` or `on-disk` type.
+2. `Indexing of the Vectors`
+3. `Similarity search`
+4. `CRUD operations`
+
+`use case of vector stores`.
+1. Semantic search.
+2. Recommendation system.
+3. RAG.
+4. Image/Multimedia search.
+
+
+# Vectore Store vs Vector Database
+While vector stores offers fearrtures like `centralized storage of vectors`, `indexing of the vectors`, `similarity search`, `CRUD OPerations` but the vector databases not only offers the storage of the vector embeddings but beside it, it also offers more practical, secure and scalable approach to deal with vectors, like `distributed articture`, `ACID compliance`, `Concurrency Control`, `Backup and Recovery` , `Authentication ant Authorization` etc.
