@@ -9,3 +9,6 @@ textSplitters/.env
 vectorStores/.venv
 vectorStores/.env
 
+retriver/.venv
+retriver/.env
+

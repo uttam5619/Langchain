@@ -5,5 +5,4 @@ langchain-openai
 dotenv
 pypdf
 beautifulsoup4
-
 langchain-text-splitters

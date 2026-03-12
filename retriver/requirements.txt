@@ -1,0 +1,9 @@
+faiss-cpu
+tiktoken
+chromadb
+langchain
+openai
+dotenv
+langchain-openai
+langchain-community
+langchain-chroma

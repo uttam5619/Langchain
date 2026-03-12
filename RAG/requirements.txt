@@ -1,0 +1,14 @@
+beautifulsoup4
+faiss-cpu
+tiktoken
+chromadb
+langchain
+openai
+dotenv
+pypdf
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-core
+
