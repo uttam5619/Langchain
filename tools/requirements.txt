@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-community
+langchain-core
+langchain-openai
+pydantic
+langchain-experimental
+dotenv
+
+ddgs
+duckduckgo-search
+
+wikipedia
+
+youtube_search

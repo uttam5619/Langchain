@@ -12,3 +12,10 @@ vectorStores/.env
 retriver/.venv
 retriver/.env
 
+
+
+tools/.venv
+tools/.env
+
+agents/.venv
+agents/.env

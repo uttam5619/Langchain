@@ -78,3 +78,14 @@ There are 4 main features which belongs to a vector store.
 
 # Vectore Store vs Vector Database
 While vector stores offers fearrtures like `centralized storage of vectors`, `indexing of the vectors`, `similarity search`, `CRUD OPerations` but the vector databases not only offers the storage of the vector embeddings but beside it, it also offers more practical, secure and scalable approach to deal with vectors, like `distributed articture`, `ACID compliance`, `Concurrency Control`, `Backup and Recovery` , `Authentication ant Authorization` etc.
+
+# Tools
+Tools are the external resources that the LLM can use to interact with the external world.
+
+## Agent
+- An AI Agent is a LLM powered system that can autonomously think, decide and take actions
+using external tool or API(s) to achive the goal.
+- An Agent is nothing but a LLM on steroids.
+- When it comes to the LLM, they are good at reasoning and deciosion making, and this power of LLM used to get harvest by the LLM for planning the roadmap in order to perform the task to achive the desired goal.
+
+ 
